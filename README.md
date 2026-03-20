@@ -250,7 +250,7 @@ We've created **8 ready-to-copy templates** for common Filipino workflows:
 **Facebook Page:** [AI for Everyday Pinoys](https://facebook.com/aiforeverydaypinoys)  
 📱 Daily tips, tutorials, and community support in Taglish
 
-**Discord Server:** [Coming Soon!]  
+**Discord Server:** [https://discord.gg/5VHJnysb]
 💬 Real-time chat, skill sharing, and collaboration
 
 **Newsletter:** [Sign up here]  
