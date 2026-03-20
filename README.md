@@ -381,5 +381,5 @@ Found this helpful? Share para mas marami pang Pinoys ang makatulong!
 | ❓ FAQ | [FAQ.md](./FAQ.md) |
 | 🔧 Troubleshooting | [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) |
 | 🤝 Contributing | [CONTRIBUTING.md](./CONTRIBUTING.md) |
-| 📱 Facebook | [AI for Everyday Pinoys]([https://facebook.com/aiforeverydaypinoys](https://www.facebook.com/profile.php?id=61583838129607)) |
+| 📱 Facebook | [AI for Everyday Pinoys]([https://facebook.com/aiforeverydaypinoys](https://www.facebook.com/profile.php?id=61583838129607) |
 
